@@ -1,0 +1,5 @@
+
+fat:
+	black .
+	isort .
+	autoflake .
