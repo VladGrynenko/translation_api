@@ -6,7 +6,6 @@ from api.handlers import translation
 
 
 def create_app():
-    print("I am in create app")
     app = FastAPI(docs_url="/")
 
     # here include routers
